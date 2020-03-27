@@ -12,7 +12,7 @@
         }
 
 
-        public bool Enrol()
+        public bool BookClass()
         {
             return true;
         }

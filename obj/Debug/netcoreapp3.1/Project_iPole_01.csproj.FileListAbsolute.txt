@@ -1,0 +1,10 @@
+/Users/bruger/Documents/GitHub/Project_iPole/bin/Debug/netcoreapp3.1/Project_iPole_01.deps.json
+/Users/bruger/Documents/GitHub/Project_iPole/bin/Debug/netcoreapp3.1/Project_iPole_01.runtimeconfig.json
+/Users/bruger/Documents/GitHub/Project_iPole/bin/Debug/netcoreapp3.1/Project_iPole_01.runtimeconfig.dev.json
+/Users/bruger/Documents/GitHub/Project_iPole/bin/Debug/netcoreapp3.1/Project_iPole_01.dll
+/Users/bruger/Documents/GitHub/Project_iPole/bin/Debug/netcoreapp3.1/Project_iPole_01.pdb
+/Users/bruger/Documents/GitHub/Project_iPole/obj/Debug/netcoreapp3.1/Project_iPole_01.csprojAssemblyReference.cache
+/Users/bruger/Documents/GitHub/Project_iPole/obj/Debug/netcoreapp3.1/Project_iPole_01.AssemblyInfoInputs.cache
+/Users/bruger/Documents/GitHub/Project_iPole/obj/Debug/netcoreapp3.1/Project_iPole_01.AssemblyInfo.cs
+/Users/bruger/Documents/GitHub/Project_iPole/obj/Debug/netcoreapp3.1/Project_iPole_01.dll
+/Users/bruger/Documents/GitHub/Project_iPole/obj/Debug/netcoreapp3.1/Project_iPole_01.pdb
